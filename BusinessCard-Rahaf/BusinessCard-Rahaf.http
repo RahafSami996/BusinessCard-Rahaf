@@ -1,0 +1,6 @@
+@BusinessCard_Rahaf_HostAddress = http://localhost:5142
+
+GET {{BusinessCard_Rahaf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
